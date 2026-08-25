@@ -1,0 +1,10 @@
+{
+  "name": "Remix CCTV AI Attendance System",
+  "description": "AI-Based CCTV Automated Period-Wise Student Attendance System with Face Recognition, Timetable Periods, Manual Overrides, and Student Calendar",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
